@@ -21,7 +21,7 @@ REQUIRED_PACKAGES = [
     'tensorflow==2.6.0',
     'tf-models-official==2.6.0',
     'tensorflow_io==0.23.1',
-    'keras',
+    'keras==2.6.*',
     'pyparsing==2.4.7'  # TODO(b/204103388)
 ]
 
